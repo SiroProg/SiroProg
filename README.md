@@ -60,20 +60,6 @@
 
 ---
 
-<h2 align="center">🧩 Highlight: SmileManager</h2>
-
-<p align="center">
-  Partial payments • debt tracking • clean UI • reports.
-</p>
-
-<ul>
-  <li>✅ Accept & record <b>partial payments</b> (separate transactions with time, method, amount)</li>
-  <li>✅ Auto-update remaining debt & status (unpaid/partial/paid)</li>
-  <li>🛠️ Planned: export to CSV/PDF, customer analytics, reminders</li>
-</ul>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SiroProg&theme=tokyonight&hide_border=true&show_icons=true" height="180" />
@@ -82,9 +68,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiroProg&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
-
----
-
 
 ---
 
