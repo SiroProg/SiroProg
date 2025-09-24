@@ -1,19 +1,37 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=200&section=header&text=siroemes%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=220&section=header&text=SiroProg%20🚀&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- About Me -->
-<h2 align="center">💫 About Me</h2>
+<!-- Typing Title -->
 <p align="center">
-  Hi, I'm <b>SiroProg</b> 👨‍💻 <br/>
-  Passionate about coding, building creative apps with <b>Flutter</b> & <b>Django</b>.  
-  I love combining <b>tech + design</b> to craft smooth user experiences. ✨  
+  <a href="https://github.com/SiroProg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Flutter+%2B+Django+Craftsman;Clean+UI%2C+Smooth+UX%2C+Solid+Architecture;Building+SmileManager+and+more" />
+  </a>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/SiroProg?tab=followers"><img src="https://img.shields.io/github/followers/SiroProg?style=for-the-badge" /></a>
+  <a href="https://github.com/SiroProg"><img src="https://img.shields.io/github/stars/SiroProg?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SiroProg&style=for-the-badge&color=1e90ff&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- Socials -->
+<h2 align="center">💫 About Me</h2>
+<p align="center">
+  Hi, I'm <b>SiroProg</b> 👨‍💻<br/>
+  I build creative apps with <b>Flutter</b> & <b>Django</b>, mixing <b>tech + design</b> for delightful UX. <br/>
+  Currently shaping <b>SmileManager</b> — smart finance & billing with partial payments.
+</p>
+
+<p align="center">
+  <b>Quick facts:</b> clean architecture • pixel-perfect UI • automation first
+</p>
+
+---
+
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
   <a href="https://behance.net/..."><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
@@ -26,25 +44,40 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+<h2 align="center">🧩 Highlight: SmileManager</h2>
+
+<p align="center">
+  Partial payments • debt tracking • clean UI • reports.
+</p>
+
+<ul>
+  <li>✅ Accept & record <b>partial payments</b> (separate transactions with time, method, amount)</li>
+  <li>✅ Auto-update remaining debt & status (unpaid/partial/paid)</li>
+  <li>🛠️ Planned: export to CSV/PDF, customer analytics, reminders</li>
+</ul>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiroProg&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiroProg&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiroProg&theme=tokyonight&hide_border=true&show_icons=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiroProg&theme=tokyonight&hide_border=true" height="180" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiroProg&theme=tokyonight&hide_border=true&layout=compact" />
@@ -52,10 +85,22 @@
 
 ---
 
-<!-- Visitor Count -->
+<h2 align="center">📈 Activity</h2>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SiroProg&icon=5&color=6" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiroProg&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+<details>
+  <summary>🗺️ Roadmap (short)</summary>
+  <br/>
+  <ul>
+    <li>[ ] SmileManager: CSV/PDF reports</li>
+    <li>[ ] Push notifications for unpaid debts</li>
+    <li>[ ] Multi-tenant mode</li>
+  </ul>
+</details>
 
 <!-- Footer -->
 <p align="center">
