@@ -23,12 +23,12 @@
 - 🏢 Строю SaaS-продукты для сферы услуг и бизнеса в **Казахстане и Центральной Азии**
 - 🤖 Люблю **Telegram-ботов**, автоматизацию и чистую архитектуру
 - 🌱 Сейчас углубляюсь в backend на **FastAPI** и **PostgreSQL**
-- 📫 Связаться со мной: **eeldoru@gmail.com**
+- 📫 Связаться со мной: **nsirozhiddin@internet.ru**
 
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="mailto:eeldoru@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="mailto:nsirozhiddin@internet.ru"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   <a href="https://t.me/SiroProg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
   <a href="https://github.com/SiroProg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
