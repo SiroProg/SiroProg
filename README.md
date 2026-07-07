@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Sirojiddin%20Nuriddinov&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Mobile%20%26%20Full-Stack%20Developer%20%C2%B7%20Central%20Asia&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Sirojiddin%20Nuriddinov&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Mobile%20%26%20Full-Stack%20Developer%20%C2%B7%20Central%20Asia&descAlignY=58&descSize=18&v=2" alt="header"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -39,6 +39,42 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,nodejs,python,fastapi,postgres,prisma,tailwind,firebase,git,github,figma,androidstudio,vscode,linux&perline=9" alt="skills"/>
 </p>
 
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ <a href="https://github.com/SiroProg/kezek">kezek</a></h3>
+      <p>SaaS для онлайн-записи и напоминаний в сфере услуг.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚕 <a href="https://github.com/SiroProg/DoDomaTax">DoDomaTax</a></h3>
+      <p>Платформа заказа такси для Центральной Азии.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💈 <a href="https://github.com/SiroProg/sardorbek">sardorbek</a></h3>
+      <p>Telegram-бот онлайн-записи для барбершопа.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/aiogram_3-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/SiroProg/qbox_mobile">qbox_mobile</a></h3>
+      <p>Мобильное приложение на Flutter.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -47,27 +83,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiroProg&hide_border=true&theme=tokyonight" alt="streak"/>
-</p>
-
-## 🌟 Best Repositories
-
-<p align="center">
-  <a href="https://github.com/SiroProg/kezek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiroProg&repo=kezek&hide_border=true&theme=tokyonight" alt="kezek"/>
-  </a>
-  <a href="https://github.com/SiroProg/DoDomaTax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiroProg&repo=DoDomaTax&hide_border=true&theme=tokyonight" alt="DoDomaTax"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SiroProg/sardorbek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiroProg&repo=sardorbek&hide_border=true&theme=tokyonight" alt="sardorbek"/>
-  </a>
-  <a href="https://github.com/SiroProg/qbox_mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiroProg&repo=qbox_mobile&hide_border=true&theme=tokyonight" alt="qbox_mobile"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiroProg&hide_border=true&theme=tokyonight&v=2" alt="streak"/>
 </p>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,100:0575E6&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:021B79,100:0575E6&height=120&section=footer&v=2" alt="footer"/>
