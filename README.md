@@ -1,5 +1,10 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=200&section=header&text=Sirojiddin%20Nuriddinov&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Mobile%20%26%20Full-Stack%20Developer%20%C2%B7%20Central%20Asia&descAlignY=58&descSize=18&v=2" alt="header"/>
+<p align="center">
+  <img width="100%" src="./assets/banner.jpg" alt="banner"/>
+</p>
+
+<h1 align="center">Sirojiddin Nuriddinov</h1>
+<p align="center"><i>Mobile &amp; Full-Stack Developer · Central Asia</i></p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
