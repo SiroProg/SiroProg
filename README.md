@@ -36,14 +36,6 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [kezek](https://github.com/SiroProg/kezek) | SaaS для онлайн-записи и напоминаний в сфере услуг | Next.js · Telegram Bot |
-| [DoDomaTax](https://github.com/SiroProg/DoDomaTax) | Платформа заказа такси для Центральной Азии | Flutter · FastAPI |
-| [sardorbek](https://github.com/SiroProg/sardorbek) | Telegram-бот онлайн-записи для барбершопа | Python · aiogram 3 |
-
 ### GitHub Stats
 
 <p align="center">
