@@ -30,14 +30,8 @@ I build fast, clean cross-platform apps and the products around them.
 
 <p align="left">
   <a href="mailto:nsirozhiddin@internet.ru"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://t.me/SiroProg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+  <a href="https://t.me/siroemes"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
   <a href="https://github.com/SiroProg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</p>
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,ts,nextjs,react,nodejs,python,fastapi,postgres,prisma,tailwind,firebase,git,github,figma,androidstudio,vscode,linux&perline=9" alt="skills"/>
 </p>
 
 ## 🌟 Featured Projects
