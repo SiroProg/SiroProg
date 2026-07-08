@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">Sirojiddin Nuriddinov</h1>
+<p align="center"><b>Flutter &amp; Mobile Developer</b> · Astana, Kazakhstan 🇰🇿</p>
 
 <!-- STATS BADGES -->
 <p align="center">
@@ -16,11 +17,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Мобильная разработка на **Flutter** и full-stack на **Next.js**
-- 🏢 Строю SaaS-продукты для сферы услуг и бизнеса в **Казахстане и Центральной Азии**
-- 🤖 Люблю **Telegram-ботов**, автоматизацию и чистую архитектуру
-- 🌱 Сейчас углубляюсь в backend на **FastAPI** и **PostgreSQL**
-- 📫 Связаться со мной: **nsirozhiddin@internet.ru**
+Flutter & Mobile Developer with **3 years of experience**, based in **Astana, Kazakhstan**.
+I build fast, clean cross-platform apps and the products around them.
+
+- 📱 Cross-platform mobile apps with **Flutter & Dart** — Riverpod, clean architecture
+- 🌐 Full-stack when needed: **Next.js / TypeScript** for web, **Python (FastAPI, aiogram)** for backends & Telegram bots
+- 🏢 Shipping real products for the service & business market in Kazakhstan — booking SaaS, taxi platforms, automation bots
+- 🌱 Currently going deeper into **backend architecture** & **PostgreSQL**
+- 📫 Reach me: **nsirozhiddin@internet.ru**
 
 ## 🔗 Connect With Me
 
