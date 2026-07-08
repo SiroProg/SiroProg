@@ -3,17 +3,7 @@
   <img width="100%" src="./assets/banner.jpg?v=3" alt="banner"/>
 </p>
 
-<!-- GLOWING HERO -->
-<p align="center">
-  <img src="./assets/hero.svg?v=1" alt="Sirojiddin Nuriddinov" width="70%"/>
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://github.com/SiroProg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F8BFF&center=true&vCenter=true&width=820&height=40&lines=Flutter+%26+Mobile+Developer;Next.js+%26+Full-Stack+Engineer;Telegram+Bots+%26+Automation;Building+SaaS+for+Central+Asia" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Sirojiddin Nuriddinov</h1>
 
 <!-- STATS BADGES -->
 <p align="center">
