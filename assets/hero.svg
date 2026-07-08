@@ -1,0 +1,47 @@
+<svg width="860" height="210" viewBox="0 0 860 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="55%" stop-color="#7f8bff"/>
+      <stop offset="100%" stop-color="#b48cff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7f8bff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b48cff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Name with pulsing neon aura -->
+  <text x="430" y="90" text-anchor="middle" filter="url(#glow)"
+        font-family="'Trebuchet MS', 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="60" font-weight="800" fill="url(#nameGrad)"
+        letter-spacing="1">Sirojiddin Nuriddinov
+    <animate attributeName="opacity" values="0.82;1;0.82" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated underline -->
+  <rect x="180" y="112" width="500" height="3" rx="1.5" fill="url(#line)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="430" y="152" text-anchor="middle"
+        font-family="'Consolas', 'Courier New', monospace"
+        font-size="18" font-weight="600" fill="#8b949e"
+        letter-spacing="4">MOBILE &#183; FULL-STACK &#183; CENTRAL ASIA</text>
+
+  <!-- Accent tag -->
+  <text x="430" y="184" text-anchor="middle"
+        font-family="'Consolas', 'Courier New', monospace"
+        font-size="14" font-weight="500" fill="#3fb950"
+        letter-spacing="2">&lt;/&gt; Flutter &#183; Next.js &#183; Python Bots</text>
+</svg>
