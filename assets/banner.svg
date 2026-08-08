@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="ind" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9AA2F8"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1B1D21" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- фон -->
+  <rect width="1200" height="300" rx="24" fill="#08090A"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="23.5" fill="none" stroke="#1B1D21"/>
+
+  <!-- k-mark (логотип Kezek) -->
+  <g transform="translate(80,96) scale(1.7)">
+    <rect width="64" height="64" rx="14.34" fill="#4F46E5"/>
+    <g fill="#FFFFFF" transform="translate(18.584,47.273) scale(0.014915,-0.014915)">
+      <path d="M556 442 557 953H619L1111 1536H1600L939 764H838ZM170 0V2048H596V0ZM1130 0 678 669 962 970 1629 0Z"/>
+    </g>
+  </g>
+
+  <!-- текст -->
+  <text x="232" y="132" fill="#F4F5F6" font-size="62" font-weight="800" letter-spacing="-2">Siro</text>
+  <text x="236" y="176" fill="url(#ind)" font-size="24" font-weight="700" letter-spacing="-0.4">Full-stack Product Engineer</text>
+  <text x="236" y="210" fill="#8F949C" font-size="16" font-weight="500">Building Kezek — booking &amp; business OS for the service industry</text>
+
+  <!-- @handle + акцентная линия -->
+  <text x="1120" y="46" text-anchor="end" fill="#5F636B" font-size="15" font-weight="600" letter-spacing="0.5">@SiroProg</text>
+  <rect x="236" y="230" width="120" height="4" rx="2" fill="url(#ind)"/>
+
+  <!-- стек справа -->
+  <text x="1120" y="205" text-anchor="end" fill="#5F636B" font-size="14" font-weight="500">Flutter</text>
+  <text x="1120" y="228" text-anchor="end" fill="#5F636B" font-size="14" font-weight="500">Vue · Nuxt · TypeScript</text>
+  <text x="1120" y="251" text-anchor="end" fill="#5F636B" font-size="14" font-weight="500">Python · FastAPI · MongoDB</text>
+</svg>
